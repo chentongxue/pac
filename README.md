@@ -1,2 +1,2 @@
-# suzaku_pac
+# suzaku pac
 pac proxy service
