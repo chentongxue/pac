@@ -1,4 +1,4 @@
-var proxy = "PROXY pac.suzaku.me:9527;";
+var proxy = "PROXY pac.suzaku.me:25;";
 
 var domains = {
   "share.dmhy.org": 1,
